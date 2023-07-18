@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main-print a word
+ *main-print a word
  * 
- * Return: 0
+ *Return: 0
  */
 int main(void)
 {
